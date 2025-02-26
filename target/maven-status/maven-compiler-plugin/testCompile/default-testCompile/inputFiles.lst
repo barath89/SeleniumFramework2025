@@ -1,0 +1,12 @@
+D:\Selenium\SeleniumFramework2025\src\test\java\testBase\BaseClass.java
+D:\Selenium\SeleniumFramework2025\src\test\java\testCases\TC_001_AccountRegistrationTest.java
+D:\Selenium\SeleniumFramework2025\src\test\java\pageObjects\BasePage.java
+D:\Selenium\SeleniumFramework2025\src\test\java\pageObjects\LoginPage.java
+D:\Selenium\SeleniumFramework2025\src\test\java\pageObjects\MyAccountPage.java
+D:\Selenium\SeleniumFramework2025\src\test\java\utilities\ExtentReportManager.java
+D:\Selenium\SeleniumFramework2025\src\test\java\pageObjects\RegistrationPage.java
+D:\Selenium\SeleniumFramework2025\src\test\java\testCases\TC_002_LogInTest.java
+D:\Selenium\SeleniumFramework2025\src\test\java\utilities\ExcelUtility.java
+D:\Selenium\SeleniumFramework2025\src\test\java\utilities\DataProviders.java
+D:\Selenium\SeleniumFramework2025\src\test\java\testCases\TC_003_LoginDDT.java
+D:\Selenium\SeleniumFramework2025\src\test\java\pageObjects\HomePage.java

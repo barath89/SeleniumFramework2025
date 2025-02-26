@@ -1,0 +1,27 @@
+2025-02-26 16:50:24 INFO  TC_001_AccountRegistrationTest:14 - **** Starting TC_001_AccountRegistrationTest **** 
+2025-02-26 16:50:26 INFO  TC_001_AccountRegistrationTest:23 - **** Providing Customer Details **** 
+2025-02-26 16:50:30 INFO  TC_001_AccountRegistrationTest:37 - Test passed
+2025-02-26 16:50:30 INFO  TC_001_AccountRegistrationTest:43 - ***** Finished TC001_AccountRegistrationTest *****
+2025-02-26 16:50:40 INFO  TC_002_LogInTest:16 - ***Starting TC_002_LogInTes****
+2025-02-26 16:50:43 INFO  TC_002_LogInTest:38 - ***Finished TC_002_LogInTes****
+2025-02-26 17:21:29 INFO  TC_001_AccountRegistrationTest:14 - **** Starting TC_001_AccountRegistrationTest **** 
+2025-02-26 17:21:31 INFO  TC_001_AccountRegistrationTest:23 - **** Providing Customer Details **** 
+2025-02-26 17:21:33 INFO  TC_001_AccountRegistrationTest:37 - Test passed
+2025-02-26 17:21:33 INFO  TC_001_AccountRegistrationTest:43 - ***** Finished TC001_AccountRegistrationTest *****
+2025-02-26 17:21:39 INFO  TC_002_LogInTest:16 - ***Starting TC_002_LogInTes****
+2025-02-26 17:21:43 INFO  TC_002_LogInTest:38 - ***Finished TC_002_LogInTes****
+2025-02-26 17:24:46 INFO  Utils:112 - [TestNG] Running:
+  D:\Selenium\SeleniumFramework2025\master.xml
+
+2025-02-26 17:24:58 INFO  TC_001_AccountRegistrationTest:14 - **** Starting TC_001_AccountRegistrationTest **** 
+2025-02-26 17:25:00 INFO  TC_001_AccountRegistrationTest:23 - **** Providing Customer Details **** 
+2025-02-26 17:25:04 INFO  TC_001_AccountRegistrationTest:37 - Test passed
+2025-02-26 17:25:04 INFO  TC_001_AccountRegistrationTest:43 - ***** Finished TC001_AccountRegistrationTest *****
+2025-02-26 17:25:11 INFO  TC_002_LogInTest:16 - ***Starting TC_002_LogInTes****
+2025-02-26 17:25:14 INFO  TC_002_LogInTest:38 - ***Finished TC_002_LogInTes****
+2025-02-26 17:34:27 INFO  TC_001_AccountRegistrationTest:14 - **** Starting TC_001_AccountRegistrationTest **** 
+2025-02-26 17:34:28 INFO  TC_001_AccountRegistrationTest:23 - **** Providing Customer Details **** 
+2025-02-26 17:34:30 INFO  TC_001_AccountRegistrationTest:37 - Test passed
+2025-02-26 17:34:30 INFO  TC_001_AccountRegistrationTest:43 - ***** Finished TC001_AccountRegistrationTest *****
+2025-02-26 17:34:36 INFO  TC_002_LogInTest:16 - ***Starting TC_002_LogInTes****
+2025-02-26 17:34:38 INFO  TC_002_LogInTest:38 - ***Finished TC_002_LogInTes****
